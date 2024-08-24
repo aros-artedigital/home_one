@@ -1,2 +1,2 @@
-Acesse o site pelo link abaixo.
+Acesse o site pelo link abaixo:
 https://homenewworld.netlify.app/
